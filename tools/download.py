@@ -53,7 +53,7 @@ def search_user(keyword, pcursor=None):
 def get_video(uid, pcursor=None):
     key_req_json = {
         'url': 'http://apissl.gifshow.com/rest/n/feed/profile2?app=0&kpf=ANDROID_PHONE&ver=6.4&c=BAIDU',
-        'commonParams': 'mod=huawei%28MI%208%29&appver=6.4.0.9003&ftt=K-F-T&isp=CTCC&kpn=KUAISHOU&'
+        'commonParams': 'mod=huawei%289MI%208%29&appver=6.4.0.9003&ftt=K-F-T&isp=CTCC&kpn=KUAISHOU&'
                         'lon=33.337841&language=zh-cn&sys=ANDROID_9&max_memory=512&ud=0&country_code=cn&'
                         'pm_tag=11694575470&oc=BAIDU&hotfix_ver=&did_gt=1539073091012&iuid=&net=WIFI&'
                         'did=ANDROID_2ec0f9e99f32fb16&lat=33.979012',
